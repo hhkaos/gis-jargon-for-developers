@@ -19,11 +19,8 @@ assignees: ''
 **Example usage**
 <!-- (Optional) Share a sentence or situation that shows the confusion. -->
 
-**References**
-<!-- (Optional) Links to definitions, docs, or resources -->
-
 **Other names**:
 <!-- (Optional) Equivalent or alternative names used in other standards, libraries, or platforms (e.g., GeoJSON, OGC, Leaflet, Mapbox, Google Maps, Esri).   -->
 
-**References**: 
-<!-- (Optional) Links to docs, specs, or tutorials. !-->
+**References**
+<!-- (Optional) Links to definitions, specs, or tutorials, docs, or resources -->
