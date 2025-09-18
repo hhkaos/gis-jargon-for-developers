@@ -21,3 +21,9 @@ assignees: ''
 
 **References**
 <!-- (Optional) Links to definitions, docs, or resources -->
+
+**Other names**:
+<!-- (Optional) Equivalent or alternative names used in other standards, libraries, or platforms (e.g., GeoJSON, OGC, Leaflet, Mapbox, Google Maps, Esri).   -->
+
+**References**: 
+<!-- (Optional) Links to docs, specs, or tutorials. !-->
